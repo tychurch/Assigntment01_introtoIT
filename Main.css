@@ -1,0 +1,76 @@
+body {
+    background-color: black;
+    margin-right: 10%;
+    margin-left: 10%;
+
+}
+
+h1 {
+
+    color: whitesmoke;
+    font-family: monospace;
+    font-size: 300%;
+}
+
+
+table#table01 {
+    width: 100%;
+    background-color: black;
+    color: floralwhite;
+
+}
+
+table#table02 {
+    
+width:15%;
+    position:absolute;
+    background-color: black;
+    color: floralwhite;
+   
+
+}
+
+table#table01 th {
+
+    border: 1px solid white;
+    font-family: sans-serif
+}
+
+table#table02 th {
+    border: 1px solid white;
+   
+   padding: 15px;
+}
+
+a {
+
+    color: floralwhite;
+}
+
+a:hover {
+
+    color: brown;
+
+}
+
+u {
+    color: grey
+}
+
+h2 {
+    
+    color: antiquewhite;
+    font-family: monospace;
+    font-size: 120%;
+    border: 2px solid white;
+    height: 70%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+p{
+
+margin-left: 3%;
+margin-right: 10%;
+
+}
