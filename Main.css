@@ -10,6 +10,7 @@ h1 {
     color: whitesmoke;
     font-family: monospace;
     font-size: 300%;
+    
 }
 
 
@@ -68,9 +69,11 @@ h2 {
     margin-right: 20%;
 }
 
+
+
 p{
 
 margin-left: 3%;
-margin-right: 10%;
+margin-right: 3%;
 
 }
